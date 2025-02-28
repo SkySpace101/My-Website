@@ -4,7 +4,7 @@ body {
 
 .header {
   position: relative;
-  background-color: rgb(210, 255, 142);
+  background-color: rgb(247, 187, 160);
   text-align: center;
   box-shadow: 0 4px 15px white;
   z-index: 1;
@@ -30,7 +30,7 @@ h1::first-letter {
 }
 
 .main-content {
-  background-color: skyblue;
+  background-color: rgb(185, 176, 236);
   text-align: center;
   padding-top: 117px;
   padding-bottom: 117px;
