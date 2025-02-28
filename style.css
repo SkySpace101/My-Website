@@ -21,6 +21,7 @@ h1 {
   font-size: xxx-large;
   color: green;
   text-shadow: 0 6px 6px skyblue;
+  min-width: 500px;
 }
 
 h1::first-letter {
@@ -34,7 +35,7 @@ h1::first-letter {
   text-align: center;
   padding-top: 117px;
   padding-bottom: 117px;
-  width: 100%;
+  min-width: 500px;
 }
 
 h3 {
