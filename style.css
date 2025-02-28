@@ -35,6 +35,7 @@ h1::first-letter {
   padding-top: 117px;
   padding-bottom: 117px;
   min-width: 500px;
+  height: 100vh;
 }
 
 h3 {
